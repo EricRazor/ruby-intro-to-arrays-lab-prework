@@ -25,5 +25,6 @@ end
 
 def first_element_with_array_methods(array)
   first_obj = array
+  first_obj.to_i
   return first_obj
 end
