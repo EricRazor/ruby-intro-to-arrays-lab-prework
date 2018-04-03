@@ -23,7 +23,7 @@ def last_element(array)
   return last_element
 end
 
-def first_element_with_array_methods(array)
+def first_element_with_array_methods(array[0])
   first_obj = array
   return first_obj
 end
