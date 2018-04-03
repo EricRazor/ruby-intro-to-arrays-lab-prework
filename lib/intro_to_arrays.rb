@@ -24,6 +24,7 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  first_obj = array
-  return first_obj
+  
 end
+
+
