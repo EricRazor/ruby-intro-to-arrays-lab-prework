@@ -23,3 +23,7 @@ def last_element(array)
   return last_element
 end
 
+def first_element_with_array_methods(array)
+  length = array.length
+  return length
+end
